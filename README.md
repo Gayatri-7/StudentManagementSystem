@@ -22,14 +22,5 @@ This is a simple command-line Java application to manage student records. You ca
    javac studentmanagement/Main.java
    java studentmanagement.Main
    ```
-
 ## 📜 Usage:
 After running the program, you’ll be asked to choose an option from the menu to manage student records.
-
-
-
-After running the program, you’ll be asked to choose an option from the menu to manage student records.
-
----
-
-This version has a bit more personality! Let me know if you want any other tweaks.
